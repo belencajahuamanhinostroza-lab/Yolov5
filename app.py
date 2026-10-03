@@ -1,4 +1,4 @@
-rom PIL import Image
+from PIL import Image
 import io
 import streamlit as st
 import numpy as np
